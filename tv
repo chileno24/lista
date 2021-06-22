@@ -23,3 +23,11 @@ http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/71
 http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/1382
 #EXTINF:-1,CANAL 13 cl
 http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/209
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DIRECTV SPORTS 1 CHILE (ʜᴅ)
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/61519
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DIRECTV SPORTS 1 CHILE 1080 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/605
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DIRECTV SPORTS 1 CHILE 720 ⁽ᴹ⁾
+http://tv.iptv5latino.cl:8080/rodolfovelizcanto/56997430516/53362
